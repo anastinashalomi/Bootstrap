@@ -1,0 +1,17 @@
+ .jumbotron{
+ height: 150px;
+ background-color: rgb(45, 112, 45);
+ padding:70px 30px 70px 30px;
+ margin:0px auto;
+}
+
+.footer{
+    background-color: rgb(193, 233, 134);
+    padding: 20px 0px 20px 0px;
+}
+ 
+
+.carousel-caption{
+
+    vertical-align: top;
+}
